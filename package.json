@@ -1,0 +1,19 @@
+{
+  "name": "no67s-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to prevent the brainrot integer that happens to be between 66 and 68.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.3"
+  }
+}
